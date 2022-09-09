@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/pokeapi/static/css/main.a6ece6a1.css",
+    "main.js": "/pokeapi/static/js/main.cc377cd1.js",
+    "static/js/787.20ea48e4.chunk.js": "/pokeapi/static/js/787.20ea48e4.chunk.js",
+    "static/media/steel.gif": "/pokeapi/static/media/steel.0c3ffe4cf1efaa1fd262.gif",
+    "static/media/paisaje.gif": "/pokeapi/static/media/paisaje.876e8e25756799a43184.gif",
+    "static/media/dark.gif": "/pokeapi/static/media/dark.42dac41096c08119bec6.gif",
+    "static/media/fire.jpg": "/pokeapi/static/media/fire.8bd3de061b3a3813d2b9.jpg",
+    "static/media/fairy.gif": "/pokeapi/static/media/fairy.88d75d3be7f549fabf27.gif",
+    "static/media/backgroundPokemon.png": "/pokeapi/static/media/backgroundPokemon.cb82b53d53590e662e84.png",
+    "static/media/sign.png": "/pokeapi/static/media/sign.2108595eb0077df198ed.png",
+    "static/media/grass.gif": "/pokeapi/static/media/grass.9fdc6f2ee3514c5a9ee3.gif",
+    "static/media/dragon.jpg": "/pokeapi/static/media/dragon.a39f3c959deb555553a4.jpg",
+    "static/media/psychic.jpg": "/pokeapi/static/media/psychic.11a2656bda1543344956.jpg",
+    "static/media/ghost.jpg": "/pokeapi/static/media/ghost.f206cd03d2b3ea76bbab.jpg",
+    "static/media/rock.jpg": "/pokeapi/static/media/rock.6c979a258d5360b42ab7.jpg",
+    "static/media/ice.gif": "/pokeapi/static/media/ice.ff0d6e3da2e74d462ea0.gif",
+    "static/media/electric.jpg": "/pokeapi/static/media/electric.7f11588edb94c68bd3f9.jpg",
+    "static/media/water.jpg": "/pokeapi/static/media/water.f20223c620d759ea618f.jpg",
+    "static/media/ground.jpg": "/pokeapi/static/media/ground.137ac4ee3b70fde719fa.jpg",
+    "static/media/normal.jpg": "/pokeapi/static/media/normal.e22ad51abadc4c83904e.jpg",
+    "static/media/poison.gif": "/pokeapi/static/media/poison.294840f04cb045a4cc09.gif",
+    "static/media/pokeball.png": "/pokeapi/static/media/pokeball.b3ea02b6d9e8cbd9b3ed.png",
+    "static/media/bug.gif": "/pokeapi/static/media/bug.18a6603c6a31a12cc73b.gif",
+    "index.html": "/pokeapi/index.html",
+    "main.a6ece6a1.css.map": "/pokeapi/static/css/main.a6ece6a1.css.map",
+    "main.cc377cd1.js.map": "/pokeapi/static/js/main.cc377cd1.js.map",
+    "787.20ea48e4.chunk.js.map": "/pokeapi/static/js/787.20ea48e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ece6a1.css",
+    "static/js/main.cc377cd1.js"
+  ]
+}
